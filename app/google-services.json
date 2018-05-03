@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "737670581033",
+    "firebase_url": "https://restapp-f4913.firebaseio.com",
+    "project_id": "restapp-f4913",
+    "storage_bucket": "restapp-f4913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737670581033:android:885084b94eb26158",
+        "android_client_info": {
+          "package_name": "rockvalleycollege.edu.restapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737670581033-ucbaqssbfeg44n8nagld52cug9l5b7g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rockvalleycollege.edu.restapp",
+            "certificate_hash": "a1fc32c664241c6d2ed8ae3d52ad7b8ec735196b"
+          }
+        },
+        {
+          "client_id": "737670581033-3snlu0ifc96gsctt2ob1g90k9gfc7kjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUf8rckVBizoIqK-F94i-fY4AmXJf9_lY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737670581033-3snlu0ifc96gsctt2ob1g90k9gfc7kjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
